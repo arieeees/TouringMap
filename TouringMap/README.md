@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#TouringMap
 
-Things you may want to cover:
+##サイト概要
+###・サイトのテーマ
+  :バイクツーリストのためのツーリングルート投稿コミュニティサイト
+  
+###・テーマを選んだ理由
+  :自分自身が中型バイクを所持しているのでツーリングにもよく行くことがありますが、 
+  ツーリングルートというのは一人でも団体でもあらかじめ決めておきたいです。  
+  しかしバイクに乗り慣れていなかったり、未開拓の土地のルートを組むのは難しかったりします。  
+  どんなツーリングルートを取るのか、色んな人が投稿し交流できるサービスがあれば自分も使いたいなと思い、
+  このテーマにしました。
+  
+###・ターゲットユーザー
+  :バイクに乗る人(初心者から上級者まで)
+  :これからバイクに乗る人
+  
+###・主な利用シーン
+  ・一人、または団体でツーリングをする際にツーリングルートを決めたいとき。
+  ・自分のツーリングルートを誰かに共有したいとき。
 
-* Ruby version
+##実装機能リスト
+https://docs.google.com/spreadsheets/d/1eNxmbQ62zIhdliC23aJX0dLn_rA5sHWKDMSR26aYEjc/edit?usp=sharing
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##使用素材
