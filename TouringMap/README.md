@@ -17,7 +17,7 @@
   
 ### ・主な利用シーン
   * 一人、または団体でツーリングをする際にツーリングルートを決めたいとき。
-  * *自分のツーリングルートを誰かに共有したいとき。
+  * 自分のツーリングルートを誰かに共有したいとき。
 
 ## 実装機能リスト
 https://docs.google.com/spreadsheets/d/1eNxmbQ62zIhdliC23aJX0dLn_rA5sHWKDMSR26aYEjc/edit?usp=sharing
